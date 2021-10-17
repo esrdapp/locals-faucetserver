@@ -14,7 +14,8 @@ class Comp extends Component {
       <section className="section">
         <div className="content has-text-centered has-text-weight-light">
           <p>
-		For inquiries, support or just to say thanks please reach out to us on Twitter 
+		For inquiries, support or just to say thanks please reach out to us in the 
+	    <a href="https://t.me/hpbglobal" target="_blank">HPB GLobal</a> Telegram group - 
 </p>
 <div className="level">
 <div className="level-item">
@@ -24,14 +25,14 @@ class Comp extends Component {
 <div className="media">
       <div className="media-left">
         <figure className="image is-64x64">
-          <img src="https://pbs.twimg.com/profile_images/1346114756353159175/MVVuuEHu_400x400.jpg" alt="DeFi Karen"/>
+          <img src="" alt="HPB"/>
         </figure>
       </div>
       <div className="media-content">
         <p className="title is-4">DeFi Karen</p>
-        <p className="subtitle is-6"><a href="https://twitter.com/defikaren" target="_blank">@defikaren</a></p>
+        <p className="subtitle is-6"><a href="https://twitter.com/HPB_Global" target="_blank">HPB Global</a></p>
       </div>
-    </div>
+</div>
 
 
 
