@@ -1,7 +1,7 @@
 
 const config = {
-  apiurl: "https://faucet.ropsten.be",
-  etherscanroot: "http://ropsten.etherscan.io",
+  apiurl: "https://hpbnode.com",
+  etherscanroot: "http://hpbscan.org",
   accesskey: require("./accesskey.json").key
 };
 
