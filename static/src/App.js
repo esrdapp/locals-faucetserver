@@ -26,7 +26,7 @@ const App = () => {
       <section className="hero is-primary">
         <div className="hero-body">
           <div className="container">
-            <h1 className="title">Ropsten Ethereum Faucet</h1>
+            <h1 className="title">HPB Faucet</h1>
           </div>
         </div>
       </section>
