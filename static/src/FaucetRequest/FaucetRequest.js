@@ -59,13 +59,13 @@ const FaucetRequest = ({ onQueued }) => {
         <div className="container bottompadding">
           <div className="field">
             <label className="label">
-              Enter your testnet account address
+              Enter your HPB wallet address
             </label>
             <div className="control">
               <input
                 className="input is-primary"
                 type="text"
-                placeholder="Enter your testnet account address"
+                placeholder="Enter your HPB wallet address"
                 value={address}
                 onChange={(e) => { setAddress(e.target.value) }}
               />
@@ -78,7 +78,7 @@ const FaucetRequest = ({ onQueued }) => {
                 disabled={!cansubmit}
                 className="button is-link"
               >
-                Send me test Ether
+                Send me a small amount of HPB
               </button>
             </div>
           </div>
@@ -231,7 +231,7 @@ const FaucetRequest = ({ onQueued }) => {
 //                     disabled={this.state.requestrunning}
 //                     className="button is-link"
 //                   >
-//                     Send me test Ether
+//                     Send me some HPB
 //                   </button>
 //                 </div>
 //               </div>
