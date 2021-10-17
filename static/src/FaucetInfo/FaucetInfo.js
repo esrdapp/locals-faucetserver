@@ -32,7 +32,7 @@ const FaucetInfo = () => {
       <section className="section">
         <div className="content has-text-centered has-text-weight-light">
           <p>
-            This faucet drips {faucetinfo.payoutamountinether} Ether
+            This faucet drips {faucetinfo.payoutamountinether} HPB
             every {faucetinfo.payoutfrequencyinsec} seconds. You can
             register your account in our queue. Max queue size is currently{" "}
             {faucetinfo.queuesize}. Serving from account{" "}
@@ -44,7 +44,7 @@ const FaucetInfo = () => {
               value={Math.floor(faucetinfo.balance)}
               displayType={"text"}
               thousandSeparator={true}
-              suffix={" ETH"}
+              suffix={" HPB"}
             />
             ).
           </p>
