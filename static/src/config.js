@@ -1,6 +1,6 @@
 
 const config = {
-  apiurl: "https://backend-six-mu.vercel.app",
+  apiurl: "locals-faucetserver-coral.vercel.app",
   etherscanroot: "http://hpbscan.org",
   accesskey: require("./accesskey.json").key
 };
