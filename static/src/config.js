@@ -1,6 +1,6 @@
 
 const config = {
-  apiurl: "https://hpbnode.com",
+  apiurl: "backend-six-mu.vercel.app",
   etherscanroot: "http://hpbscan.org",
   accesskey: require("./accesskey.json").key
 };
