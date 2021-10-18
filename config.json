@@ -6,6 +6,6 @@
 	"walletpwd": "test",
 	"httpport": 3000,
 	"web3": {
-		"host": "https://hpbnode.com"
+		"host": "http://hpbnode.com"
 	}
 }
