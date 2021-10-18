@@ -1,0 +1,11 @@
+{
+	"etherscanroot": "https://hpbscan.org/address/",
+	"payoutfrequencyinsec": 3600,
+	"payoutamountinether": 0.001,
+	"queuesize": 5,
+	"walletpwd": "test",
+	"httpport": 3000,
+	"web3": {
+		"host": "http://hpbnode.com"
+	}
+}
